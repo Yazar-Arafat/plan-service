@@ -36,10 +36,10 @@ For further reference, please consider the following sections:
 
 * Design and implemented a RESTFUL API using by Java Spring boot Microservice Application with Docker
 * Added swagger Open API tool to generate the document 
-	Access via an example: http://localhost:8080/swagger-ui.html
-* Application available on Docker hub
-	Tag name: arafath07/plan-service:1.0
-	CMD : docker pull arafath07/plan-service:1.0
+	- Access via an example: http://localhost:8080/swagger-ui.html
+* Application available on Docker Hub
+	- Tag name: arafath07/plan-service:1.0
+	- CMD : docker pull arafath07/plan-service:1.0
 * Unit/Integration test cases covered to Controllers and Services
 
 ### How to run
