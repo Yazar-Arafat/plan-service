@@ -1,0 +1,22 @@
+[
+    {
+      "planName": "PLAN1",
+      "price": 100,
+      "serviceName": "voice,email"
+    },
+    {
+      "planName": "PLAN2",
+      "price": 150,
+      "serviceName": "email,database,admin"
+    },
+    {
+      "planName": "PLAN3",
+      "price": 125,
+      "serviceName": "voice,admin"
+    },
+    {
+      "planName": "PLAN4",
+      "price": 135,
+      "serviceName": "database,admin"
+    }
+  ]
